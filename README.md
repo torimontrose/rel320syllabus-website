@@ -39,10 +39,10 @@ syllabus website/
 - **"Wellness Day"** (Weekly Schedule tab): last year's schedule canceled
   a class for a university Wellness Day. The Fall 2026 date wasn't
   available when this site was built — add it if/when announced.
-- **Bhikkuni Ordination Game tab**: this game's rules, roles, paper
-  prompt, and rubric weren't finalized in the source syllabus yet. The
-  tab is scaffolded and ready — fill it in the same way the Ashoka Game
-  tab is filled in on the REL 224 site once details are set.
+- **Bhikkuni Ordination Game**: this game's rules, roles, paper prompt,
+  and rubric weren't finalized in the source syllabus yet. It's a
+  placeholder in the Graded Elements tab (and its rubric slot on the
+  Rubrics tab) — fill both in once details are set.
 
 ### Editing a table (grading breakdown, schedule, rubric)
 
