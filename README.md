@@ -28,17 +28,13 @@ syllabus website/
 
 ### Things still marked for your attention
 
-- **Meeting time**: carried over from Fall 2025 (Tue/Thu 8:30–9:45 AM) —
-  confirm this is still correct for Fall 2026.
-- **Final quiz date/time/location** (Graded Elements tab and Weekly
-  Schedule tab): Furman's Fall 2026 final exam period is Dec 10–16, but
-  the specific slot for this class's meeting time needs to be confirmed.
-- **Field trip date** (Weekly Schedule tab): the Great Tree Women's Zen
-  Temple field trip date is a placeholder pending the temple's
-  availability — confirm and update.
 - **"Wellness Day"** (Weekly Schedule tab): last year's schedule canceled
   a class for a university Wellness Day. The Fall 2026 date wasn't
   available when this site was built — add it if/when announced.
+- **Final project work days** (Weekly Schedule tab, sessions 27–28,
+  Tue 12/1 and Thu 12/3): placeholders — add your plans for these two
+  in-class work sessions leading up to the final project, which is
+  written in class on the last day (Tue 12/8).
 - **Bhikkuni Ordination Game**: this game's rules, roles, paper prompt,
   and rubric weren't finalized in the source syllabus yet. It's a
   placeholder in the Graded Elements tab (and its rubric slot on the
