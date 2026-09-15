@@ -22,10 +22,10 @@ rows = [
   dict(num="11", date="Tue. 9/29", reading="Balkwill, &ldquo;Why does a woman need to become a man in order to become a Buddha?: Past investigations, new leads&rdquo;<br>Blair, &ldquo;Mothers of the Buddhas: Transforming Women into Buddhas&rdquo;", notes=""),
   dict(num="12", date="Thu. 10/1", reading="Gyatso, &ldquo;Sex&rdquo; in <em>Critical Terms for the Study of Buddhism</em> (p. 271&ndash;290)<br>In class we will read the Vasumitra chapter from the <em>Avatamsaka Sutra</em>", notes="<mark>Quiz 2 guidelines distributed</mark>"),
   dict(num="13", date="Tue. 10/6", reading="Li, &ldquo;Dancing Guanyin&rdquo;<br>Collett, Ch. 4 &ldquo;Portraits of Buddhist Women&rdquo; p. 109&ndash;129", notes=""),
-  dict(num="14", date="Thu. 10/8", reading="&mdash;", notes="<mark>In-class Quiz 2</mark>"),
+  dict(num="14", date="Thu. 10/8", reading="In class, we will watch <em>To the Land of Bliss</em>", notes=""),
 
   dict(unit="Women&rsquo;s Agency and Power in Buddhist History"),
-  dict(num="15", date="Thu. 10/15", reading="In class, we will watch <em>To the Land of Bliss</em>", notes=""),
+  dict(num="15", date="Thu. 10/15", reading="&mdash;", notes="<mark>In-class Quiz 2</mark>"),
   dict(num="16", date="Tue. 10/20", reading="Collett, Ch. 6: &ldquo;Deities, Teachers, Lineages: Central and East Asia&rdquo; p. 159&ndash;186", notes=""),
   dict(num="17", date="Thu. 10/22", reading="Introduction from <em>The Tara Tantra</em>, trans. Susan Landesman", notes=""),
   dict(num="18", date="Tue. 10/27", reading="Read Gayley, &ldquo;Gendered Hagiography in Tibet&rdquo;", notes=""),
